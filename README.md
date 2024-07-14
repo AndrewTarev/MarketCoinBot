@@ -19,7 +19,7 @@
 ## Установка
 
 1. Клонируйте репозиторий на вашу локальную машину:  
-   git clone https://github.com/AndrewTarev/MarketCoinBot
+   git clone https://github.com/AndrewTarev/MarketCoinBot.git
 
 2. В папке с проектом через терминал установите виртуальное окружение и активируйте его:  
    python3 -m venv venv  
